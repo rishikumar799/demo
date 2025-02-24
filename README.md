@@ -1,2 +1,2 @@
 # demo
-demo purpose
+Hello this is rishi this is my first repository.
